@@ -1,5 +1,5 @@
 # grep-go
-    implementation linux sort util
+    implementation linux grep util
 
 # Usage
     go run grep.go [-flags] [file.txt]
