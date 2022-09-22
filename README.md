@@ -1,3 +1,6 @@
+# grep-go
+    implementation linux sort util
+
 # Usage
     go run grep.go [-flags] [file.txt]
 # Supported Flags
@@ -10,4 +13,4 @@
 **-F** - "fixed" - exact string full-match\
 **-n** - "line num" - print number of matched string
 
-![Gopher with magnifier](https://sergey.kamardin.org/instrumentation-in-go_hu535a801620328a8232555dc5b3b1323d_202876_1200x0_resize_q75_box.jpg)
+![Gopher with magnifier](https://raw.githubusercontent.com/cmetallo42/grep-go/main/image.jpg)
